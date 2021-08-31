@@ -1,4 +1,4 @@
-(estudo realizado em 11/2020)
+(Estudo realizado em 11/2020)
 
 Será que tudo o que envolve custos hospitalares (SUS) pode impactar na atuação do combate à covid-19?
 
