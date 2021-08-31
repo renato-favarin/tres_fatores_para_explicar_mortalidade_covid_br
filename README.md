@@ -1,4 +1,4 @@
-# Três fatores para explicar a mortabilidade por covid-19 no Brasil em até 11/2020
+# Três fatores para explicar a mortabilidade por covid-19 no Brasil até 11/2020
 
 - Será que tudo o que envolve custos hospitalares (do SUS) pode impactar na atuação do combate à covid-19? Quantidade de leitos, acesso a medicamentos, número de médicos por pacientes, equipamentos para exames, realização de exames, entre outros fatores, influenciam os gastos públicos em saúde.
 
