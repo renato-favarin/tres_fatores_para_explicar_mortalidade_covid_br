@@ -6,7 +6,7 @@ Quantidade de leitos, acesso a medicamentos, número de médicos por pacientes, 
 
 Considerando as 10 UFs mais impactadas pela pandemia, em mortes por 100 mil habitantes, há 6 cujo custo hospitalar por habitante figuram entre os 10 mais baixos do Brasil nos últimos 2 anos.
 
-Além do gasto hospitalar, foram analisados outros 2 possíveis fatores para ajudar a explicar as diferenças nas taxas de óbitos a cada 100 mil habitantes:
+Além dos gastos hospitalares, foram analisados outros 2 possíveis fatores para ajudar a explicar as diferenças nas taxas de óbitos a cada 100 mil habitantes:
 - Índice de Gini, que mede a desigualdade de renda da população;
 - Densidade demográfica, que é um índice demográfico que calcula o número de habitantes por quilômetro quadrado.
 
